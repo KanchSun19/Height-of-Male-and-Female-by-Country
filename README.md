@@ -18,3 +18,16 @@ The frequency distribution of female height looks to be bimodal and in this part
 
 The horizontal bar chart above shows the top 10 countries with the tallest females, the first country being Netherlands, followed by Montenegro and Denmark. The average height of women in Netherlands look to be greater than 170cm which is rather tall in comparison to the other countries.
 
+
+<img width="787" alt="Shortest Females" src="https://user-images.githubusercontent.com/92783883/165144480-7e95a7a9-fe93-44c3-bd80-3c267be62ffb.png">
+
+The horizontal bar chart above shows the top 10 countries with the shortest females, the first country being Peru, followed by Indonesia, Maldives and the Phillipines. All of these countries have an average height of 154cm or more.
+
+
+Male Height Analysis:
+
+<img width="375" alt="Male B" src="https://user-images.githubusercontent.com/92783883/165144771-e96f4e24-ad44-4d63-a72d-2ca484f5d83b.png">
+
+The frequency distribution of male height looks to be bimodal and in this partcular case there looks to be "two peaks". The two ranges of maximum heights are approximately (170-173)cm and (175-177)cm as seen from the histogram above. The mean or average height for height is 173cm.
+
+
